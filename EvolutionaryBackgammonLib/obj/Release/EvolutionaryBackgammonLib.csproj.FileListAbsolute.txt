@@ -1,0 +1,4 @@
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\bin\Release\EvolutionaryBackgammonLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\bin\Release\EvolutionaryBackgammonLib.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\obj\Release\EvolutionaryBackgammonLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\obj\Release\EvolutionaryBackgammonLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\bin\Debug\EvolutionaryBackgammonLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\bin\Debug\EvolutionaryBackgammonLib.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\obj\Debug\EvolutionaryBackgammonLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\obj\Debug\EvolutionaryBackgammonLib.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonLib\obj\Debug\EvolutionaryBackgammonLib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\bin\Release\EvolutionaryBackgammon.exe
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\bin\Release\EvolutionaryBackgammon.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\bin\Release\EvolutionaryBackgammonLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\bin\Release\EvolutionaryBackgammonLib.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\obj\x86\Release\EvolutionaryBackgammon.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\obj\x86\Release\EvolutionaryBackgammon.Form1.resources
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\obj\x86\Release\EvolutionaryBackgammon.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\obj\x86\Release\EvolutionaryBackgammon.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\obj\x86\Release\EvolutionaryBackgammon.exe
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammon\obj\x86\Release\EvolutionaryBackgammon.pdb

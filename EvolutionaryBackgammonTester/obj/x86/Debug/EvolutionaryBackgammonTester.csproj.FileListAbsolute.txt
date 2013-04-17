@@ -1,0 +1,10 @@
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\bin\Debug\EvolutionaryBackgammonTester.exe
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\bin\Debug\EvolutionaryBackgammonTester.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\bin\Debug\EvolutionaryBackgammonLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\bin\Debug\EvolutionaryBackgammonLib.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\obj\x86\Debug\EvolutionaryBackgammonTester.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\obj\x86\Debug\EvolutionaryBackgammonTester.Form1.resources
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\obj\x86\Debug\EvolutionaryBackgammonTester.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\obj\x86\Debug\EvolutionaryBackgammonTester.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\obj\x86\Debug\EvolutionaryBackgammonTester.exe
+C:\Users\Home\documents\visual studio 2010\Projects\EvolutionaryBackgammon\EvolutionaryBackgammonTester\obj\x86\Debug\EvolutionaryBackgammonTester.pdb
